@@ -10,3 +10,6 @@ public class Ch5_1{
 		System.out.println(obj.s);
 	} 
 }
+/*	Output:
+	null
+*/

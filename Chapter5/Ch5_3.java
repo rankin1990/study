@@ -11,3 +11,6 @@ public class Ch5_3{
 		Ch5_3 obj = new Ch5_3();
 	}
 }
+/*	Output:
+	默认构造器
+*/

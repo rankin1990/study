@@ -15,3 +15,6 @@ public class Ch5_4{
 		Ch5_4 obj = new Ch5_4("构造器添加的消息");
 	}
 }
+/*	Output:
+	自己的消息+构造器添加的消息
+*/

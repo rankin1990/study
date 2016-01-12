@@ -15,3 +15,7 @@ public class Ch5_2{
 		System.out.println(obj.s2);
 	} 
 }
+/*	Output:
+	定义时就被初始化
+	通过构造器初始化
+*/

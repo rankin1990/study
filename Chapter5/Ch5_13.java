@@ -5,14 +5,13 @@
  */
  public class Ch5_13{
 	  	 
-	 public static void main(String[] args){
-		 //Cups.cup1.f1(99);
-	 }
-	 static Cups cups1 = new Cups();
+	public static void main(String[] args){
+		//Cups.cup1.f1(99);
+	}
+	static Cups cups1 = new Cups();
  }
  
- //
- class Cup{
+class Cup{
 	Cup(int i){
 		System.out.println("Cup:"+i);
 	}
@@ -21,7 +20,6 @@
 	}
 }
 	 
-//
 class Cups{
 	static Cup cup1;
 	static Cup cup2;
@@ -33,4 +31,9 @@ class Cups{
 		System.out.println("Cups()");
 	}
 }
+/*	Output:
+	Cup:1
+	Cup:2
+	Cups()
+*/
 
