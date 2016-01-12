@@ -3,7 +3,7 @@
  *
  * @author rankin_dean@163.com
  */
- public class orderOfInitialization{
+ public class OrderOfInitialization{
 	  	 
 	 public static void main(String[] args){
 		 House obj = new House();

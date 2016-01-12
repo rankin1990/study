@@ -3,7 +3,7 @@
  *
  * @author rankin_dean@163.com
  */
- public class arrayOfPrimitives{
+ public class ArrayOfPrimitives{
 	  
 	 public static void main(String[] args){
 		 int[] a1 = {1,2,3,4,5};

@@ -3,7 +3,7 @@
  *
  * @author rankin_dean@163.com
  */
- public class primitiveOverloading{
+ public class PrimitiveOverloading{
 	 void f1(char x) {System.out.print("f1(char) ");}
 	 void f1(byte x) {System.out.print("f1(byte) ");}
 	 void f1(short x) {System.out.print("f1(short) ");}
@@ -96,7 +96,7 @@
 	 }
 	 
 	 public static void main(String[] args){
-		 primitiveOverloading obj = new primitiveOverloading();
+		 PrimitiveOverloading obj = new PrimitiveOverloading();
 		 obj.testConstVal();
 		 obj.testChar();
 		 obj.testByte();

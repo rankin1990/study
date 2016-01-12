@@ -4,7 +4,7 @@
  *
  * @author rankin_dean@163.com
  */
- public class staticInitialization{
+ public class StaticInitialization{
 	  	 
 	 public static void main(String[] args){
 		 new Cupboard();

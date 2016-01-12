@@ -4,7 +4,7 @@
  * @author rankin_dean@163.com
  */
  import java.util.*;
- public class arrayNew{
+ public class ArrayNew{
 	  
 	 public static void main(String[] args){
 		 Random rand = new Random(47);
