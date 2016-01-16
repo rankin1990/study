@@ -43,10 +43,7 @@ enum Spiciness{
 	NOT,MILD,MEDIUM,HOT
 }
 /*	Output:
-	MEDIUM
-	NOT,ordinal 0
-	MILD,ordinal 1
-	MEDIUM,ordinal 2
-	HOT,ordinal 3
+	The Value is:NOT
+	The Value is:MEDIUM
 */
  
